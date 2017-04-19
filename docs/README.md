@@ -15,8 +15,8 @@ VERSION [480] | Refills? | Pastebin Link | Runtime | SETTINGS
 ---------|----------|----------|---------|---------
 **TM Refills**| **YES** | [**CLICK HERE**](https://pastebin.com/ppEAXvpV) | **34sec** | [**SETTINGS**](http://i.imgur.com/sEl6vZr.png)
 **SLOW CLICK** | **YES**| [**CLICK HERE**](https://pastebin.com/z8nuZ2VW) | **37sec** | **Can Use Acceleration**
-**w/o Refills** | [NO]| [**CLICK HERE**](https://pastebin.com/rpeYV0Fg) | **41sec** | [**SETTINGS**](http://i.imgur.com/YNtLUT7.png)
-**w/o Refill+timer** | [NO]| [**CLICK HERE**](https://pastebin.com/t9C3gD4v) | **5min** | [**SETTINGS**](http://i.imgur.com/sEl6vZr.png)
+**w/o Refills** | **NO**| [**CLICK HERE**](https://pastebin.com/rpeYV0Fg) | **41sec** | [**SETTINGS**](http://i.imgur.com/YNtLUT7.png)
+**w/o Refill+timer** | **NO**| [**CLICK HERE**](https://pastebin.com/t9C3gD4v) | **5min** | [**SETTINGS**](http://i.imgur.com/sEl6vZr.png)
 
 ## 800x1280
 
@@ -45,7 +45,7 @@ _*you will see black bars at the top and bottom of screen, this is normal_
 
 VERSION [480] | Refills? | Pastebin Link | Runtime | SETTINGS
 ---------|----------|----------|---------|---------
-**TM Refills**| [YES] | [**CLICK HERE**](https://pastebin.com/v8EVpXgL) | **34sec** | [**SETTINGS**](http://i.imgur.com/FjMARCO.png)
-**SLOW CLICK** | [YES]| [**CLICK HERE**](https://pastebin.com/NUR1647k) | **37sec** | **Can Use Acceleration**
-**w/o Refills** | [NO]| [**CLICK HERE**](https://pastebin.com/rLSuJVaR) | **41sec** | [**SETTINGS**](http://i.imgur.com/w0dZw8H.png)
-**w/o Refill+timer** | [NO]| [**CLICK HERE**](https://pastebin.com/RkUTuiZe) | **5min** | [**SETTINGS**](http://i.imgur.com/FjMARCO.png)
+**TM Refills**| **YES** | [**CLICK HERE**](https://pastebin.com/v8EVpXgL) | **34sec** | [**SETTINGS**](http://i.imgur.com/FjMARCO.png)
+**SLOW CLICK** | **YES**| [**CLICK HERE**](https://pastebin.com/NUR1647k) | **37sec** | **Can Use Acceleration**
+**w/o Refills** | **NO**| [**CLICK HERE**](https://pastebin.com/rLSuJVaR) | **41sec** | [**SETTINGS**](http://i.imgur.com/w0dZw8H.png)
+**w/o Refill+timer** | **NO**| [**CLICK HERE**](https://pastebin.com/RkUTuiZe) | **5min** | [**SETTINGS**](http://i.imgur.com/FjMARCO.png)
