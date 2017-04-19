@@ -20,9 +20,9 @@ VERSION [480] | Refills? | Pastebin Link | Runtime | SETTINGS
 
 ## 800x1280
 
-[**DO NOT USE WITH AMAZON VERSION**]
+**DO NOT USE WITH AMAZON VERSION**
 
-[**USE THESE RESOLUTION SETTINGS**] - [**PICTURE**](http://i.imgur.com/jOy6wyk.png) 
+**USE THESE RESOLUTION SETTINGS** - [**PICTURE**](http://i.imgur.com/jOy6wyk.png) 
 
 
 VERSION [800] | Refills? | Pastebin Link | Runtime | SETTINGS
