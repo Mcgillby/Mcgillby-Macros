@@ -1,6 +1,6 @@
 # MEmu Version
 
-##[480x854](/ct)##
+## [480x854](/ct)
 
 >For Low-End PCs or Extra Stabilty, should be considered the fastest and most stable option.
 
@@ -18,7 +18,7 @@ VERSION [480] | Refills? | Pastebin Link | Runtime | SETTINGS
 **w/o Refills** | [NO](/#label-green)| [**CLICK HERE**](https://pastebin.com/rpeYV0Fg) | **41sec** | [**SETTINGS**](http://i.imgur.com/YNtLUT7.png)
 **w/o Refill+timer** | [NO](/#label-green)| [**CLICK HERE**](https://pastebin.com/t9C3gD4v) | **5min** | [**SETTINGS**](http://i.imgur.com/sEl6vZr.png)
 
-##[800x1280](/ct)##
+## [800x1280](/ct)
 
 [**DO NOT USE WITH AMAZON VERSION**](/tg)
 
@@ -32,9 +32,9 @@ VERSION [800] | Refills? | Pastebin Link | Runtime | SETTINGS
 **w/o Refills** | [NO](/#label-green)| [**CLICK HERE**](https://pastebin.com/V7amJEV7) | **41sec** | [**SETTINGS**](http://i.imgur.com/E6WVv02.png)
 **w/o Refill+timer** | [NO](/#label-green)| [**CLICK HERE**](https://pastebin.com/eBD1YM5y) | **5min** | [**SETTINGS**](http://i.imgur.com/2f3pjdK.png)
 
-#NOX Version#
+# NOX Version
 
-##[480x854](/ct)##
+## [480x854](/ct)
 
 >For Low-End PCs or Extra Stabilty, should be considered the fastest and most stable option.
 
