@@ -1,4 +1,4 @@
-#MEmu Version#
+#MEmu Version
 
 ##[480x854](/ct)##
 
